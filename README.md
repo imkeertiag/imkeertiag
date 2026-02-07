@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imkeertiag&label=Profile%20views&color=0e75b6&style=flat" alt="imkeertiag" /> </p>
 
-- 🔭 I’m currently working on [Curious Connect](https://github.com/Curious-Ecosystem/Curious-Connect)
+- 🔭 I’m currently working at HCL Tech.
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Gen AI**
 
 - 👯 I’m looking to collaborate on [Node.js](https://github.com/processing/p5.js)
 
